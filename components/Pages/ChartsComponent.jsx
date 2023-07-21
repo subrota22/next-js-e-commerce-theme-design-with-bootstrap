@@ -10,6 +10,7 @@ const ChartsComponent = () => {
     const [display, setDisplay] = useState(true);
     return (
         <>
+        {/* Three charts  */}
             <section className="sb-nav-fixed">
                 <nav className="sb-topnav sb-nav-fixed navbar navbar-expand navbar-dark bg-dark">
                     <a className="navbar-brand ps-3" href="/">Start Bootstrap</a>
